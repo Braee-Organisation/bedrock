@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 225 64" width="225" height="64">
+  <defs>
+    <style>
+      <![CDATA[
+        @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap');
+      ]]>
+    </style>
+  </defs>
+  <rect x="0" y="0" width="64" height="64" rx="16" fill="#3C3489"/>
+  <circle cx="32" cy="32" r="20" fill="none" stroke="#EEEDFE" stroke-width="3"/>
+  <circle cx="32" cy="32" r="10" fill="none" stroke="#AFA9EC" stroke-width="2"/>
+  <line x1="32" y1="12" x2="32" y2="22" stroke="#EEEDFE" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="32" y1="42" x2="32" y2="52" stroke="#EEEDFE" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="12" y1="32" x2="22" y2="32" stroke="#EEEDFE" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="42" y1="32" x2="52" y2="32" stroke="#EEEDFE" stroke-width="2.5" stroke-linecap="round"/>
+  <circle cx="32" cy="32" r="4" fill="#7F77DD"/>
+  <text x="80" y="34" font-family="Roboto, system-ui, sans-serif" font-size="26" font-weight="500" fill="#FFFFFF" letter-spacing="-0.5">Vault</text>
+  <text x="80" y="52" font-family="Roboto, system-ui, sans-serif" font-size="12" font-weight="400" fill="#FFFFFF">Braee Organisation</text>
+</svg>

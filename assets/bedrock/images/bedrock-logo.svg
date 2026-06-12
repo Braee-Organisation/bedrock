@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 183 64" width="183" height="64">
+  <defs>
+    <style>
+      <![CDATA[
+        @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap');
+      ]]>
+    </style>
+  </defs>
+  <rect x="0" y="0" width="64" height="64" rx="16" fill="#3D3D3D"/>
+  <rect x="8" y="46" width="48" height="10" rx="3" fill="#1A1A1A"/>
+  <rect x="8" y="34" width="48" height="10" rx="3" fill="#2E2E2E"/>
+  <rect x="8" y="22" width="48" height="10" rx="3" fill="#4A4A4A"/>
+  <rect x="8" y="10" width="48" height="10" rx="3" fill="#626262"/>
+  <line x1="20" y1="46" x2="24" y2="56" stroke="#111111" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="38" y1="46" x2="35" y2="56" stroke="#111111" stroke-width="1.5" stroke-linecap="round"/>
+  <rect x="8" y="10" width="48" height="3" rx="2" fill="#888888" opacity="0.4"/>
+  <text x="80" y="34" font-family="Roboto, system-ui, sans-serif" font-size="26" font-weight="500" fill="#1A1A1A" letter-spacing="-0.5">Bedrock</text>
+  <text x="80" y="52" font-family="Roboto, system-ui, sans-serif" font-size="12" font-weight="400" fill="#6B6B6B">Braee Organisation</text>
+</svg>

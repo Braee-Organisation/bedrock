@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 225 64" width="225" height="64">
+  <defs>
+    <style>
+      <![CDATA[
+        @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap');
+      ]]>
+    </style>
+  </defs>
+  <rect x="0" y="0" width="64" height="64" rx="16" fill="#D85A30"/>
+  <path d="M18 44 Q18 34 22 30 Q26 26 26 18" fill="none" stroke="#FAECE7" stroke-width="3" stroke-linecap="round"/>
+  <path d="M30 44 Q30 34 34 30 Q38 26 38 18" fill="none" stroke="#FAECE7" stroke-width="3" stroke-linecap="round"/>
+  <path d="M42 44 Q42 34 46 30 Q50 26 50 18" fill="none" stroke="#FAECE7" stroke-width="3" stroke-linecap="round"/>
+  <text x="80" y="34" font-family="Roboto, system-ui, sans-serif" font-size="26" font-weight="500" fill="#1A1A1A" letter-spacing="-0.5">Simmer</text>
+  <text x="80" y="52" font-family="Roboto, system-ui, sans-serif" font-size="12" font-weight="400" fill="#6B6B6B">Braee Organisation</text>
+</svg>
